@@ -36,6 +36,7 @@ java PlayGame.java
 ## Input/Output Example
 ---------------------------------------------------------------------------
 Input :
+
 <img width="695" height="697" alt="Screenshot 2025-09-19 at 9 09 58 PM" src="https://github.com/user-attachments/assets/ebfc70e5-9b68-4129-a81e-df653ea0b7d1" />
 
 
