@@ -33,21 +33,14 @@ java PlayGame.java
 ---------------------------------------------------------------------------
 Please give us a full execution of what we should see on the screen. Label each text with input and output. 
 Input :
- 
-
-
-
-
-
-
-
-
+<img width="695" height="697" alt="Screenshot 2025-09-19 at 9 09 58 PM" src="https://github.com/user-attachments/assets/ebfc70e5-9b68-4129-a81e-df653ea0b7d1" />
 
 
 
 
 Error Handling :
- 
+<img width="701" height="503" alt="Screenshot 2025-09-19 at 9 10 19 PM" src="https://github.com/user-attachments/assets/096496ff-6773-4a98-8667-062db2adb2f0" />
+
 
 
 
@@ -69,6 +62,6 @@ Error Handling :
 
 
 Output (After Completion of Puzzle):
+<img width="536" height="453" alt="Screenshot 2025-09-19 at 9 10 28 PM" src="https://github.com/user-attachments/assets/c69d7ce3-0959-46ef-8ac9-69ec4c7d8c81" />
 
- 
-<img width="468" height="611" alt="image" src="https://github.com/user-attachments/assets/f082a2c9-8997-43b1-bf82-60a9196a0d75" />
+
