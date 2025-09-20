@@ -24,9 +24,13 @@ While creating the board me and setting the puzzle, I have checked if It is solv
 1.	Clone the repository/download the PlayGame.java file
 2.	This file contains both the classes PlayGame and the SlidingPuzzle class
 3.	Compile the program using –
+```
 javac PlayGame.java
+```
 4.	Now run the program using the following command -
+```
 java PlayGame.java
+```
 
 
 ## Input/Output Example
