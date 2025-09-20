@@ -39,6 +39,7 @@ Input :
 
 
 Error Handling :
+
 <img width="701" height="503" alt="Screenshot 2025-09-19 at 9 10 19 PM" src="https://github.com/user-attachments/assets/096496ff-6773-4a98-8667-062db2adb2f0" />
 
 
@@ -62,6 +63,7 @@ Error Handling :
 
 
 Output (After Completion of Puzzle):
+
 <img width="536" height="453" alt="Screenshot 2025-09-19 at 9 10 28 PM" src="https://github.com/user-attachments/assets/c69d7ce3-0959-46ef-8ac9-69ec4c7d8c81" />
 
 
