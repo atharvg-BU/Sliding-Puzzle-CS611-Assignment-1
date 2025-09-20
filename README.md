@@ -22,7 +22,6 @@ UML Diagram -
 
 <img width="1416" height="1244" alt="UML - Sliding Puzzle" src="https://github.com/user-attachments/assets/9d66e003-3e65-457c-91b2-ab57699b4863" />
 
-
 ## How to compile and run
 ---------------------------------------------------------------------------
 1.	Clone the repository/download the PlayGame.java file
