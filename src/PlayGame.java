@@ -48,6 +48,9 @@ class SlidingPuzzle {
     }
 
     public boolean checkSolvability(int[]single_board){
+//        Checking if the random puzzle is solvable or not
+//        A puzzle can be solved if the count of all numbers who have a greater number ahead is even
+
         int count=0;
         for (int i=0;i< single_board.length;i++){
             if(single_board[i]==0){
